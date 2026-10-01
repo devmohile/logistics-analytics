@@ -1,0 +1,8 @@
+ticket_id,order_id,warehouse_id,ticket_date,ticket_type,ticket_status,resolution_time_hours,severity
+TKT001,ORD005,W001,2026-09-03,Missing Item,Resolved,24,High
+TKT002,ORD010,W005,2026-09-05,Damaged Package,Resolved,48,High
+TKT003,ORD012,W001,2026-09-06,Delayed Shipment,Resolved,72,Medium
+TKT004,ORD017,W005,2026-09-09,Inventory Mismatch,Open,0,High
+TKT005,ORD002,W002,2026-09-08,Address Issue,Resolved,12,Low
+TKT006,ORD009,W003,2026-09-05,Quality Complaint,Resolved,36,Medium
+TKT007,ORD014,W002,2026-09-07,Late Delivery,Open,0,Medium

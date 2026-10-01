@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,location,region,capacity,operating_hours
+W001,Phoenix Central,Phoenix AZ,Southwest,50000,24
+W002,Denver Hub,Denver CO,Rocky Mountain,45000,24
+W003,Las Vegas Distribution,Las Vegas NV,Southwest,35000,24
+W004,Salt Lake City,Salt Lake City UT,Mountain,40000,24
+W005,Albuquerque,Albuquerque NM,Southwest,30000,16

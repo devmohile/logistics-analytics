@@ -1,0 +1,12 @@
+delivery_id,shipment_id,delivery_date,delivery_status,delivery_time_hours,customer_satisfaction_score
+DEL001,SHP001,2026-09-03,Delivered,48,5
+DEL002,SHP002,2026-09-03,Delivered,48,4
+DEL003,SHP004,2026-09-04,Delivered,48,5
+DEL004,SHP007,2026-09-06,Delivered,48,4
+DEL005,SHP008,2026-09-06,Delivered,48,5
+DEL006,SHP010,2026-09-08,Delivered,48,4
+DEL007,SHP012,2026-09-09,Delivered,48,5
+DEL008,SHP014,2026-09-10,Delivered,48,5
+DEL009,SHP015,2026-09-10,Delivered,48,4
+DEL010,SHP017,2026-09-11,Delivered,48,5
+DEL011,SHP019,2026-09-12,Delivered,48,4
